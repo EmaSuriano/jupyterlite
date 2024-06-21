@@ -1,7 +1,16 @@
 # Core modules (mandatory)
-jupyterlite-core==0.3.0
-jupyterlab~=4.1.6
-notebook~=7.1.2
+jupyterlite-core
+jupyterlab
+notebook
+
+# kernel
+jupyterlite-pyodide-kernel
+
+# themes
+jupyterlab-night
+
 
 # external deps
 seaborn
+pandas
+plotly
