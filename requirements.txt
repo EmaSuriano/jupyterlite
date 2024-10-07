@@ -9,7 +9,6 @@ jupyterlite-pyodide-kernel
 # themes
 jupyterlab-night
 
-
 # external deps
 seaborn
 pandas
