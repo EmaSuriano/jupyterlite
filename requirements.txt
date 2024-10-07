@@ -13,3 +13,4 @@ jupyterlab-night
 seaborn
 pandas
 plotly
+scikit-learn
